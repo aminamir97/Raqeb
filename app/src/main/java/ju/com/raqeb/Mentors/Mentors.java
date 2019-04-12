@@ -22,7 +22,7 @@ Button addnewmentor;
         addnewmentor.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Dialog dialog=new Dialog(getApplicationContext());
+                Dialog dialog=new Dialog(Mentors.this);
                 dialog.setContentView(R.layout.add_mentor_dialog);
 
                 Button submit = dialog.findViewById(R.id.sumbitbtn);
