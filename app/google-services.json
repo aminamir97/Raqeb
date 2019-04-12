@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "441737621755",
+    "firebase_url": "https://raqeb-9d2c2.firebaseio.com",
+    "project_id": "raqeb-9d2c2",
+    "storage_bucket": "raqeb-9d2c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441737621755:android:e623d7226263bee7",
+        "android_client_info": {
+          "package_name": "ju.com.raqeb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441737621755-bbtgcdvlkfgvinltcnph1u71d44d5bq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ju.com.raqeb",
+            "certificate_hash": "0b9af724fe7048b8f33e19a34b1c43a690b3e880"
+          }
+        },
+        {
+          "client_id": "441737621755-ouf4bkbt89ijdc9treg89l6a76ou9liv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA6DI1ME6kQasvmeQEgu3_6oQ3nnTeWno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441737621755-ouf4bkbt89ijdc9treg89l6a76ou9liv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
